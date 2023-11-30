@@ -1,0 +1,22 @@
+{
+  "name": "project-progress-bar",
+  "version": "1.0.0",
+  "description": "Progress bar updated using Github Projects API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizwait/project-progress-bar.git"
+  },
+  "author": "Liz Wait, Bonnie Why",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lizwait/project-progress-bar/issues"
+  },
+  "homepage": "https://github.com/lizwait/project-progress-bar#readme",
+  "dependencies": {
+    "progressbar.js": "^1.1.1"
+  }
+}
