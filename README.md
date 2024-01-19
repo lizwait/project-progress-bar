@@ -10,40 +10,25 @@ Special thanks to mr_chicken_5 for helping out these Windows newbs! <3
 - Number of items done / number of items total
 
 ## Requirements
-As twitch streamers, 
+As twitch streamers,
 We want to display a progress bar on stream,
 So that viewers can be up-to-date on our current project progress
 
-## Sprint Zero
-1. Set up tools
-    - IDE
-    - Repo
-    - Install NPM
-    - Install the progressbar.js
-    - Make tickets
-    - Push initial commit
-
-2. Create the progress bar front end
-3. Hook up the progress bar to a specific GitHub project
-4. Generalize the above
-5. Publish for use in the widget
-6. Make the widget in OBS
-7. TEST
-
 UI
+https://github.com/kimmobrunfeldt/progressbar.js/blob/gh-pages/examples/password-strength/main.js
 
-Next Stream TO-DOs before:
-1. Get my damn SSH
-2. Push up recent changes
-3. Decide on API client
-4. Figure out TDD - Jest
-5. Github API for "get" tasks from projects
-6. Make tickets
+### Next Stream TO-DOs
+Main Goal -- Grabbing information we need from GitHub Projects
+-- Make at least two tickets
+-- Grab the number of tickets from the GitHub projects
+-- Grab information about the ticket statuses
+-- Win! No matter what! Put Your hands in the air.
+And they stay there
 
-NEXT STREAM PLAN --
-TDD the backend "getTasks" from GitHub Projects
-New style of screen sharing --
-    - Bonnie hosts LiveShare
-    - Liz shares whole screen on Discord / OBS other stuff
-New layout with ticket "view"
-Logo / mascots
+### Between Streams
+-- Read docs so we don't have to do it on stream -- https://docs.github.com/en/rest/projects/cards?apiVersion=2022-11-28
+-- Finish some sort of creative stuff
+    
+
+Stream Tuning -- Continue trying to find the best pairing tool for streaming -- next up: Drovio (research prices, too)
+
